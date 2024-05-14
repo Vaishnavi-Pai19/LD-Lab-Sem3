@@ -26,28 +26,28 @@ Write a Verilog program to implement the following using only universal gates (U
 7. S-R Latch
 8. Gated S-R Latch
 9. Arithmetic-Logic Unit with the following functions on two 16-bit inputs (x, y):
-   a. x+y
-   b. x-y
-   c. y-x
-   d. 0
-   e. 1
-   f. -1
-   g. -x
-   h. -y
-   i. !x
-   j. !y
-   k. x+1
-   l. y+1
-   m. x-1
-   n. y-1
-   o. x&y
-   p. x|y
+   1. x+y
+   2. x-y
+   3. y-x
+   4. 0
+   5. 1
+   6. -1
+   7. -x
+   8. -y
+   9. !x
+   10. !y
+   11. x+1
+   12. y+1
+   13. x-1
+   14. y-1
+   15. x&y
+   16. x|y
 ## Assignment 4
 1. Write a Verilog program to implement the following logic designs using behavioral modeling:
-   a) D flip-flop with asynchronous preset and clear
-   b) Clocked D latch (Level triggering) with asynchronous preset and clear
-   c) 8-bit Shift Register
-   d) 8-bit Register
-   e) Multiplier (4×4) using full adders
+   1. D flip-flop with asynchronous preset and clear
+   2. Clocked D latch (Level triggering) with asynchronous preset and clear
+   3. 8-bit Shift Register
+   4. 8-bit Register
+   5. Multiplier (4×4) using full adders
 2. Identify the following state machine (Mealy or Moore) and implement it in Verilog:
    ![image](https://github.com/Vaishnavi-Pai19/LD-Lab-Sem3/assets/133690178/5d27a66a-7d53-4c12-a7b5-32e1cb5888c2)
